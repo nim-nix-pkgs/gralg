@@ -65,7 +65,7 @@
         "cligen": "cligen",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-grAlg-main": "src-grAlg-main"
+        "src-grAlg-0_2": "src-grAlg-0_2"
       }
     },
     "src-cligen-v1_5_27": {
@@ -85,19 +85,19 @@
         "type": "github"
       }
     },
-    "src-grAlg-main": {
+    "src-grAlg-0_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1659723535,
-        "narHash": "sha256-Mb2UQZSr2sUdHLRXzTE+c30UxRRMRL7W3fev4SUADPU=",
+        "lastModified": 1659552875,
+        "narHash": "sha256-r/VPd4x9UWEPn+olnR3ico+rA9mHccJbQjiSJ+cSDRk=",
         "owner": "c-blake",
         "repo": "gralg",
-        "rev": "0619f02ecb883686fa07b84a19e1e2f7efd3cb41",
+        "rev": "26d253f4e4f2728ae077e861a78a1491ed70dade",
         "type": "github"
       },
       "original": {
         "owner": "c-blake",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.2",
         "repo": "gralg",
         "type": "github"
       }
